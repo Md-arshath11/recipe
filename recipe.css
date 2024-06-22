@@ -1,0 +1,89 @@
+
+*{
+    font-family: "Figtree", sans-serif;
+}
+
+body{
+    background-color: hsl(330, 100%, 98%);
+    padding: 10px;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.outer{
+    margin: 50px;
+    padding: 20px;
+    line-height: 30px;
+    background-color:white;
+     height: fit-content;
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    /* align-items: center; */
+    border-radius: 10px;
+}
+
+.icon img{
+    
+    height: 300px;
+    width: 600px;
+    border-radius: 10px;
+    /* display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 25px; */
+    
+    
+}
+
+.two{
+
+    background-color: hsl(330, 100%, 98%); 
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.two h3{
+    color: hsl(332, 51%, 32%);
+}
+
+h2{
+    color: hsl(14, 45%, 36%)  ;
+}
+
+b{
+
+    color:  hsl(30, 10%, 34%);
+}
+
+.item{
+ padding-left: 10px;   
+
+}
+
+
+.item1{
+
+display: flex;
+justify-content: space-between;
+
+}
+
+.child{
+
+    color: hsl(14, 45%, 36%);
+    font-weight: 700;
+    /* padding-left: 100px; */
+    width: 300px;
+    /* margin-right: auto; */
+    
+}
+
+
+
+
+
